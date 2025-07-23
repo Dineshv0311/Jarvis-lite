@@ -1,4 +1,4 @@
-# 🧠 Ollavis: Offline AI Voice Assistant
+# 🧠 Jarvis-lite: Offline AI Voice Assistant
 
 **Jarvis-lite** is a smart, extendable, and privacy-friendly voice assistant built using **Python**, **Speech Recognition**, **Text-to-Speech**, and **Ollama's local LLMs** (like LLaMA, Mistral, etc.). Think of it as your very own Jarvis — but running entirely on your machine.
 
